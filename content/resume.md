@@ -49,7 +49,7 @@ Completed a joint technology and management program wit hMcMaster University and
 
 ## S K I L L S
 
-- JavaScript, TypeScript, GraphQL, C++, MySQL, Node.js, Mongo, Git, Jest, Python
+- JavaScript, TypeScript, GraphQL, C++, MySQL, Node.js, Mongo, Git, Jest
 - Pair programming, Multitasking, Collaboration, Mentoring, Organization
 - Excellent interpersonal communication skills
 - Strong attention to detail
