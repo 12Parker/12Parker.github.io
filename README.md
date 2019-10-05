@@ -1,5 +1,5 @@
 # 12Parker.github.io
 
-Cameron Parker's Online Portfolio
+## Cameron Parker's Online Portfolio
 
 Made using Pelican
