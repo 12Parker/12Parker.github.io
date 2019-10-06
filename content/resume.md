@@ -53,4 +53,4 @@ Completed a joint technology and management program wit hMcMaster University and
 - Pair programming, Multitasking, Collaboration, Mentoring, Organization
 - Excellent interpersonal communication skills
 - Strong attention to detail
-- Self-motivated and disciplined
+- Self-motivated and disciplined.
