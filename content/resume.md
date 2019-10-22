@@ -28,7 +28,7 @@ Completed a joint technology and management program with McMaster University and
 
 ### Full Stack Software Developer | Manulife Financial | _2018 - Present_
 
-- Created APIs, using TypeScript and GraphQL, to facilitate communication between microservices.
+- Created APIs, using TypeScript and GraphQL, to facilitate communication between micro-services.
 - Developed front-end webpages using React.js, JavaScript, and Apollo GraphQL.
 - Performed code reviews and participated in pair programming sessions.
 - Worked using Agile Scrum to achieve project goals.
@@ -49,8 +49,8 @@ Completed a joint technology and management program with McMaster University and
 
 ## S K I L L S
 
-- JavaScript, TypeScript, GraphQL, C++, MySQL, Node.js, Mongo, Git, Jest, Pelican, Python
-- Pair programming, Multitasking, Collaboration, Mentoring, Organization
-- Excellent interpersonal communication skills
-- Strong attention to detail
-- Self-motivated and disciplined
+- JavaScript, TypeScript, GraphQL, C++, MySQL, Node.js, Mongo, Git, Jest, Pelican, Python.
+- Pair programming, multitasking, collaboration, mentoring, organization.
+- Excellent interpersonal communication skills.
+- Strong attention to detail.
+- Self-motivated and disciplined.
