@@ -18,7 +18,7 @@ Full stack software developer with 3 years professional experience. Passionate a
 
 ## E D U C A T I O N
 
-### Bachelor of Technology |McMaster University | _2013 - 2017_
+### Bachelor of Technology | McMaster University | _2013 - 2017_
 
 Completed a joint technology and management program with McMaster University and Mohawk College, specializing in automation engineering technology.
 
@@ -40,7 +40,7 @@ Completed a joint technology and management program with McMaster University and
 - Created a self-hosted WordPress site to allow for easy site modifications and creation of blog posts.
 - Utilized open source APIs to reduce development time and increase robustness of the site.
 
-### Software Development Co-op |Pacline Corporation | _Jan. – Aug. 2016_
+### Software Development Co-op | Pacline Corporation | _Jan. – Aug. 2016_
 
 - Led a team of three developers to design an electronic conveyor control system using C++.
 - Worked with project manager to document requirements and create use case diagrams.
