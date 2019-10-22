@@ -20,7 +20,7 @@ Full stack software developer with 3 years professional experience. Passionate a
 
 ### Bachelor of Technology |McMaster University | _2013 - 2017_
 
-Completed a joint technology and management program wit hMcMaster University and Mohaw kCollege, specializing in automation engineering technology.
+Completed a joint technology and management program with McMaster University and Mohawk College, specializing in automation engineering technology.
 
 ---
 
