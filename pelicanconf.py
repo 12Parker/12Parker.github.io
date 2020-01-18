@@ -34,11 +34,7 @@ EXTRA_PATH_METADATA = {
 }
 
 # Blogroll
-LINKS = (('Github', 'http://github.com/'),)
-
-# Social widget
-SOCIAL = (('Twitter', 'http://twitter.com/'),
-          ('Instagram', 'http://instagram.com/'),)
+LINKS = (('Github', 'https://12parker.github.io/'),)
 
 DEFAULT_PAGINATION = 10
 
