@@ -22,17 +22,17 @@ LOAD_CONTENT_CACHE = False
 THEME = 'pelican-clean-blog-master'
 STATIC_PATHS = [
     'images',
-    'extra',  # this
+    'extras/custom.css',  # this
 ]
-CUSTOM_CSS = 'extra/custom.css'
 EXTRA_PATH_METADATA = {
-    'extra/custom.css': {'path': 'custom.css'},
+    'extra/custom.css': {'path': 'static/custom.css'},
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},  # and this
     'extra/CNAME': {'path': 'CNAME'},
     'extra/LICENSE': {'path': 'LICENSE'},
     'extra/README': {'path': 'README'},
 }
+CUSTOM_CSS = 'static/custom.css'
 
 # Blogroll
 LINKS = (('Github', 'https://12parker.github.io/'),)
