@@ -22,7 +22,7 @@ LOAD_CONTENT_CACHE = False
 THEME = 'pelican-clean-blog-master'
 STATIC_PATHS = [
     'images',
-    'extras/custom.css',  # this
+    'extra',  # this
 ]
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
