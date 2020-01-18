@@ -24,6 +24,7 @@ STATIC_PATHS = [
     'images',
     'extra',  # this
 ]
+CUSTOM_CSS = 'extra/custom.css'
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'custom.css'},
     'extra/robots.txt': {'path': 'robots.txt'},
