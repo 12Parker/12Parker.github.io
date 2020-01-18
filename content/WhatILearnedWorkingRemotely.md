@@ -1,5 +1,5 @@
 Title: What I Learned Working Remotely
-Date: 2019-10-04 10:20
+Date: 2020-1-17 10:20
 Category: Blog Posts
 
 # What I’ve learned from working remotely
