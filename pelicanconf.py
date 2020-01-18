@@ -19,7 +19,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 LOAD_CONTENT_CACHE = False
-THEME = 'pelican-clean-blog-master'
+THEME = 'simple'
 STATIC_PATHS = [
     'images',
     'extra',  # this
