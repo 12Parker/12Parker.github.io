@@ -2,6 +2,8 @@
 
 ## Cameron Parker's Online Portfolio
 
+![Screenshot](./content/images/PortfolioScreenshot.png "Screenshot of site")
+
 Made using Pelican!
 
 ### Publishing content
