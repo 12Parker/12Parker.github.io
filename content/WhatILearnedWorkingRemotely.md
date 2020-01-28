@@ -4,15 +4,13 @@ Category: Blog Posts
 
 # What I’ve learned from working remotely
 
-![What I Learned In Boating School](./images/WhatILearnedInBoatingSchool.jpg "What I Learned In Boating School")
-
 ## Be sure to create your own space
 
 Working from home can take a lot of self-discipline. It’s easy to get distracted by any number of things in your home. It’s important to reduce these distractions by creating your own quiet space to work in. This space should be isolated and relatively quiet; somewhere that you can hold meetings or work for longer periods of time without distraction. In my apartment, there will always be some level of noise due to the thin floors and walls, however when I close the door to my office I can hold meetings without too much outside noise interrupting the other participants. There are also several ways to dampen sound, which I will try to cover in another post.
 
 When you are setting up your space it’s important to make it feel like a place you can stay in for long periods of time (because you will). Fill it with items that will motivate you
 
-![Hang In There](./images/HangInThere.jpg "Hang In There")
+![Hang In There](./images/Motivation.jpg "Hang In There")
 
 and be sure to include items that can increase your productivity either directly or indirectly. Calendars, notebooks, and sound dampening materials are all easy additions to boost your productivity. Your space should also be fun! Pictures of your family or small trinkets to admire during the day help relieve boredom and frustration.
 
