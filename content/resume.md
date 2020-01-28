@@ -34,7 +34,7 @@ Full stack software developer with 3 years of professional experience and 4+ yea
 
 ---
 
-Full Stack Software Developer | Manulife Financial | 2018 - Present
+**Full Stack Software Developer | Manulife Financial | 2018 - Present**
 
 - Created APIs, using TypeScript and GraphQL, to facilitate communication between microservices.
 - Developed front-end webpages using React.js, JavaScript, and Apollo GraphQL.
@@ -42,13 +42,13 @@ Full Stack Software Developer | Manulife Financial | 2018 - Present
 - Worked closely with business partners and stakeholders to deliver exceptional value for our customers.
 - Participated in daytime support rotation to diagnose and troubleshoot production issues.
 
-Web Development Co-op | McMaster University | May – Aug. 2017
+**Web Development Co-op | McMaster University | May – Aug. 2017**
 
 - Developed user submission form and admin control panel using HTML, CSS, JavaScript, and PHP.
 - Created a self-hosted WordPress site to allow for easy site modifications and creation of blog posts.
 - Utilized open source APIs to reduce development time and increase robustness of the site.
 
-Software Development Co-op | Pacline Corporation | Jan. – Aug. 2016
+**Software Development Co-op | Pacline Corporation | Jan. – Aug. 2016**
 
 - Led a team of three developers to design an electronic conveyor control system using C++.
 - Worked with project manager to document requirements and create use case diagrams.
@@ -73,4 +73,4 @@ Software Development Co-op | Pacline Corporation | Jan. – Aug. 2016
 
 ---
 
-Email: [Parkercj@mcmaster.ca](mailto:Parkercj@mcmaster.ca)
+**Email:** [Parkercj@mcmaster.ca](mailto:Parkercj@mcmaster.ca)
