@@ -2,7 +2,7 @@ Title: What I've Learned Working Remotely
 Date: 2020-1-28 12:20
 Category: Blog Posts
 
-# What I’ve learned from working remotely
+I've been working remotely now for about 2 years and I wanted to share what I've learned over this time. I've heard from many of my colleagues that working from home is too distracting and they aren't able to finish their work on time because of this. I can definitely see where they're coming from, however, I think with some small changes most people will be able to adapt to this way of working and they'll notice huge lifestyle improvements because of it. Here are just a few tips that I've picked up over time that allow me to work effectively from home.
 
 ## Be sure to create your own space
 
