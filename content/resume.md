@@ -72,8 +72,7 @@ Git, Jira, Jenkins, Pivotal Cloud Foundry, AWS.
 
 #### Soft Skills
 
-Excellent interpersonal communication skills, strong attention to detail, self-motivated and disciplined, highly organized.
-Pair programming, collaboration, mentoring.
+Excellent interpersonal communication skills, strong attention to detail, self-motivated and disciplined, highly organized, pair programming, collaboration, mentoring.
 
 ---
 
