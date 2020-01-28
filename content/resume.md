@@ -2,14 +2,6 @@ Title: Resume
 Date: 2019-10-04 10:20
 Category: Resume
 
-# CAMERON PARKER
-
-![Location](./images/worldwide.png "Location") Ontario, Canada
-
-![Email](./images/email.png "Email") [Parkercj@mcmaster.ca](mailto:Parkercj@mcmaster.ca)
-
----
-
 ## PROFILE
 
 Full stack software developer with 3 years of professional experience and 4+ years of customer service experience. Enthusiastic about continuous learning and self-improvement. A driven, self-starter looking to deliver significant value to internal and external customers.
@@ -57,3 +49,9 @@ Completed a joint technology and management program with McMaster University and
 **Tools**: Git, Jira, Jenkins, Pivotal Cloud Foundry, AWS.
 
 **Soft Skills**: Excellent interpersonal communication skills, strong attention to detail, self-motivated and disciplined, highly organized. Technical Skills: Pair programming, collaboration, mentoring.
+
+---
+
+## CONTACT
+
+**Email**: [Parkercj@mcmaster.ca](mailto:Parkercj@mcmaster.ca)
