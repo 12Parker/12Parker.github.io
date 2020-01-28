@@ -1,10 +1,10 @@
-Title: What I Learned Working Remotely
+Title: What I've Learned Working Remotely
 Date: 2020-1-28 10:20
 Category: Blog Posts
 
 # What I’ve learned from working remotely
 
-![What I've Learned In Boating School](./images/WhatILearnedInBoatingSchool.jpg "What I've Learned In Boating School")
+![What I Learned In Boating School](./images/WhatILearnedInBoatingSchool.jpg "What I Learned In Boating School")
 
 1. Be sure to create your own space
 
