@@ -10,13 +10,13 @@ Category: Resume
 
 ---
 
-## P R O F I L E
+## PROFILE
 
-Full stack software developer with 3 years professional experience. Passionate about continuous learning and self-improvement. Currently developing an application to create photo timelines using React, GraphQL, and MongoDB.
+Full stack software developer with 3 years of professional experience and 4+ years of customer service experience. Enthusiastic about continuous learning and self-improvement. A driven, self-starter looking to deliver significant value to internal and external customers.
 
 ---
 
-## E D U C A T I O N
+## EDUCATION
 
 ### Bachelor of Technology | McMaster University | _2013 - 2017_
 
@@ -24,15 +24,15 @@ Completed a joint technology and management program with McMaster University and
 
 ---
 
-## E X P E R I E N C E
+## EXPERIENCE
 
 ### Full Stack Software Developer | Manulife Financial | _2018 - Present_
 
-- Created APIs, using TypeScript and GraphQL, to facilitate communication between micro-services.
+- Created APIs, using TypeScript and GraphQL, to facilitate communication between microservices.
 - Developed front-end webpages using React.js, JavaScript, and Apollo GraphQL.
 - Performed code reviews and participated in pair programming sessions.
-- Worked using Agile Scrum to achieve project goals.
-- Utilized Jenkins and Concourse for continuous integration and delivery.
+- Worked closely with business partners and stakeholders to deliver exceptional value for our customers.
+- Participated in daytime support rotation to diagnose and troubleshoot production issues.
 
 ### Web Development Co-op | McMaster University | _May – Aug. 2017_
 
@@ -44,13 +44,16 @@ Completed a joint technology and management program with McMaster University and
 
 - Led a team of three developers to design an electronic conveyor control system using C++.
 - Worked with project manager to document requirements and create use case diagrams.
+- Developed PLC program for controlling overhead conveyor at Yanfeng automotive plant.
 
 ---
 
-## S K I L L S
+## SKILLS
 
-- JavaScript, TypeScript, GraphQL, C++, MySQL, Node.js, Mongo, Git, Jest, Pelican, Python.
-- Pair programming, multitasking, collaboration, mentoring, organization.
-- Excellent interpersonal communication skills.
-- Strong attention to detail.
-- Self-motivated and disciplined.
+**Languages**: JavaScript, TypeScript, Python, C++, GraphQL, MySQL.
+
+**Frameworks & Testing**: React, Apollo, Redux, Node.js, MongoDB, Jest, Chai, WebdriverIO.
+
+**Tools**: Git, Jira, Jenkins, Pivotal Cloud Foundry, AWS.
+
+**Soft Skills**: Excellent interpersonal communication skills, strong attention to detail, self-motivated and disciplined, highly organized. Technical Skills: Pair programming, collaboration, mentoring.
