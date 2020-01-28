@@ -16,21 +16,21 @@ Full stack software developer with 3 years of professional experience and 4+ yea
 
 &nbsp;&nbsp;<a href="https://julieparker.net">Created WordPress blog using AWS EC2, added SSL using Let’s Encrypt and Certbot.</a>
 
-<dl>
-  <dt>React Photo Timeline</dt>
-  <dd><a href="https://github.com/12Parker/timeline.js">Developed timeline application using React, Apollo GraphQL, and MongoDB.</a></dd>
-  <dt>Coursera Stanford Machine Learning Course</dt>
-  <dd><a href="https://www.coursera.org/learn/machine-learning/">Currently working through 10-week course focusing on machine learning fundamentals.</a></dd>
-</dl>
+**React Photo Timeline**
+
+&nbsp;&nbsp;<a href="https://github.com/12Parker/timeline.js">Developed timeline application using React, Apollo GraphQL, and MongoDB.</a>
+
+**Coursera Stanford Machine Learning Course**
+
+&nbsp;&nbsp;<a href="https://www.coursera.org/learn/machine-learning/">Currently working through 10-week course focusing on machine learning fundamentals.</a>
 
 ## EDUCATION
 
 ---
 
-<dl>
-  <dt>Bachelor of Technology | McMaster University | 2013 - 2017</dt>
-  <dd>Completed a joint technology and management program with McMaster University and Mohawk College, specializing in automation engineering technology.</dd>
-</dl>
+**Bachelor of Technology | McMaster University | 2013 - 2017**
+
+&nbsp;&nbsp;Completed a joint technology and management program with McMaster University and Mohawk College, specializing in automation engineering technology.
 
 ## EXPERIENCE
 
@@ -60,19 +60,26 @@ Full stack software developer with 3 years of professional experience and 4+ yea
 
 ---
 
-<dl>
-  <dt>Languages</dt>
-  <dd>JavaScript, TypeScript, Python, C++, GraphQL, MySQL.</dd>
-  <dt>Frameworks & Testing</dt>
-  <dd>React, Apollo, Redux, Node.js, MongoDB, Jest, Chai, WebdriverIO.</dd>
-  <dt>Tools</dt>
-  <dd>Git, Jira, Jenkins, Pivotal Cloud Foundry, AWS.</dd>
-  <dt>Soft Skills</dt>
-  <dd>Excellent interpersonal communication skills, strong attention to detail, self-motivated and disciplined, highly organized, pair programming, collaboration, mentoring.</dd>
-</dl>
+**Languages**
+
+&nbsp;&nbsp;JavaScript, TypeScript, Python, C++, GraphQL, MySQL.
+
+**Frameworks & Testing**
+
+&nbsp;&nbsp;React, Apollo, Redux, Node.js, MongoDB, Jest, Chai, WebdriverIO.
+
+**Tools**
+
+&nbsp;&nbsp;Git, Jira, Jenkins, Pivotal Cloud Foundry, AWS.
+
+**Soft Skills**
+
+&nbsp;&nbsp;Excellent interpersonal communication skills, strong attention to detail, self-motivated and disciplined, highly organized, pair programming, collaboration, mentoring.
 
 ## CONTACT
 
 ---
 
-**Email:** [Parkercj@mcmaster.ca](mailto:Parkercj@mcmaster.ca)
+**Email**
+
+&nbsp;&nbsp;[Parkercj@mcmaster.ca](mailto:Parkercj@mcmaster.ca)
