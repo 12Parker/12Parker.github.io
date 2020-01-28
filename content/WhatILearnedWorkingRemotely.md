@@ -10,7 +10,7 @@ Working from home can take a lot of self-discipline. It’s easy to get distract
 
 When you are setting up your space it’s important to make it feel like a place you can stay in for long periods of time (because you will). Fill it with items that will motivate you
 
-![Hang In There](./images/Motivation.jpg "Hang In There")
+![Work Harder](./images/Motivation.jpg "Work harder")
 
 and be sure to include items that can increase your productivity either directly or indirectly. Calendars, notebooks, and sound dampening materials are all easy additions to boost your productivity. Your space should also be fun! Pictures of your family or small trinkets to admire during the day help relieve boredom and frustration.
 
