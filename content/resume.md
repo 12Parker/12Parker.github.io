@@ -12,9 +12,11 @@ Full stack software developer with 3 years of professional experience and 4+ yea
 
 ---
 
+**AWS Hosted WordPress Blog**
+
+&nbsp;&nbsp;<a href="https://julieparker.net">Created WordPress blog using AWS EC2, added SSL using Let’s Encrypt and Certbot.</a>
+
 <dl>
-  <dt>AWS Hosted WordPress Blog</dt>
-  <dd>&nbsp;&nbsp;<a href="https://julieparker.net">Created WordPress blog using AWS EC2, added SSL using Let’s Encrypt and Certbot.</a></dd>
   <dt>React Photo Timeline</dt>
   <dd><a href="https://github.com/12Parker/timeline.js">Developed timeline application using React, Apollo GraphQL, and MongoDB.</a></dd>
   <dt>Coursera Stanford Machine Learning Course</dt>
