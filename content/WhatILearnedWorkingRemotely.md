@@ -1,4 +1,4 @@
-Title: What I've Learned Working Remotely
+Title: What I've Learned From Working Remotely
 Date: 2020-1-28 12:20
 Category: Blog Posts
 
