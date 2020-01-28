@@ -8,6 +8,22 @@ Full stack software developer with 3 years of professional experience and 4+ yea
 
 ---
 
+## PROJECTS
+
+### AWS Hosted WordPress Blog
+
+- [Created WordPress blog using AWS EC2, added SSL using Let’s Encrypt and Certbot.](https://julieparker.net "Wordpress Blog")
+
+### React Photo Timeline
+
+- [Developed timeline application using React, Apollo GraphQL, and MongoDB.](https://github.com/12Parker/timeline.js "React Timeline")
+
+### Coursera Stanford Machine Learning Course
+
+- [Currently working through 10-week course focusing on machine learning fundamentals.](https://www.coursera.org/learn/machine-learning/ "React Timeline")
+
+---
+
 ## EDUCATION
 
 ### Bachelor of Technology | McMaster University | _2013 - 2017_
@@ -42,16 +58,26 @@ Completed a joint technology and management program with McMaster University and
 
 ## SKILLS
 
-**Languages**: JavaScript, TypeScript, Python, C++, GraphQL, MySQL.
+### Languages
 
-**Frameworks & Testing**: React, Apollo, Redux, Node.js, MongoDB, Jest, Chai, WebdriverIO.
+- JavaScript, TypeScript, Python, C++, GraphQL, MySQL.
 
-**Tools**: Git, Jira, Jenkins, Pivotal Cloud Foundry, AWS.
+### Frameworks & Testing
 
-**Soft Skills**: Excellent interpersonal communication skills, strong attention to detail, self-motivated and disciplined, highly organized. Technical Skills: Pair programming, collaboration, mentoring.
+- React, Apollo, Redux, Node.js, MongoDB, Jest, Chai, WebdriverIO.
+
+### Tools
+
+- Git, Jira, Jenkins, Pivotal Cloud Foundry, AWS.
+
+### Soft Skills
+
+- Excellent interpersonal communication skills, strong attention to detail, self-motivated and disciplined, highly organized. Technical Skills: Pair programming, collaboration, mentoring.
 
 ---
 
 ## CONTACT
 
-**Email**: [Parkercj@mcmaster.ca](mailto:Parkercj@mcmaster.ca)
+### Email
+
+- [Parkercj@mcmaster.ca](mailto:Parkercj@mcmaster.ca)
