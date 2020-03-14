@@ -6,10 +6,10 @@ I’ve always been an avid reader and sometimes I can find it hard to remember w
 
 ## 2020 Reading List (So Far)
 
-1.	Sapiens: A Brief History of Humankind by Yuval Noah Harari
-2.	Little Fires Everywhere by Celeste Ng
-3.	When She Wasn’t Looking by Julie Parker
-4.	Road Ends by Mary Lawson
-5.	Send Me an Angel by Julie Parker
-6.	Iliad by Homer (In progress)
-7.	Harry Potter et la Chambre des secrets by J.K Rowling (In progress)
+1. [Sapiens: A Brief History of Humankind by Yuval Noah Harari](https://www.amazon.ca/Sapiens-Humankind-Yuval-Noah-Harari/dp/077103850X "Sapiens")
+2. [Little Fires Everywhere by Celeste Ng](https://www.amazon.ca/Little-Fires-Everywhere-Celeste-Ng/dp/0735224293 "Little Fires Everywhere")
+3. [When She Wasn’t Looking by Julie Parker](https://www.amazon.ca/When-Wasnt-Looking-Julie-Parker-ebook/dp/B07SWWKXQD/ref=sr_1_1?keywords=When+She+Wasn%27t+Looking+Julie+Parker&qid=1584214096&sr=8-1 "When She Wasn’t Looking")
+4. [Road Ends by Mary Lawson](https://www.amazon.ca/Road-Ends-Mary-Lawson/dp/0345808088 "Road Ends") 
+5. [Send Me an Angel by Julie Parker](https://www.amazon.ca/Send-Me-Angel-Julie-Parker/dp/1629899755/ref=sr_1_1?keywords=Send+Me+an+Angel+by+Julie+Parker&qid=1584214130&s=books&sr=1-1 "Send Me an Angel")
+6. [Iliad by Homer (In progress)](https://www.amazon.ca/Iliad-Homer/dp/0199645213/ref=sr_1_1?keywords=The+Iliad+of+Homer+by+Homer+amazon+classic&qid=1584214176&sr=8-1 "Iliad")
+7. [Harry Potter et la Chambre des secrets by J.K Rowling (In progress)](https://www.amazon.ca/Potter-Chambre-Secrets-livres-French-ebook/dp/B0192CTN86/ref=sr_1_1?keywords=Harry+Potter+et+la+Chambre+des+secrets&qid=1584214218&sr=8-1 "Harry Potter et la Chambre des secrets")
