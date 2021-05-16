@@ -13,18 +13,15 @@ Full stack software developer with 4+ years of professional experience and 4+ ye
 ---
 
 **AWS Hosted WordPress Blog**
-
 &nbsp;&nbsp;<a href="https://julieparker.net">Created WordPress blog using AWS EC2, added SSL using Let’s Encrypt and Certbot.</a>
 
 **Created Dropshipping and Custom Product Development Business on Shopify**
 &nbsp;&nbsp;<a href="https://peaceandquiet.ca/">Founded Peace and Quiet Company and registered business in Canada.</a>
 
 **React Photo Timeline**
-
 &nbsp;&nbsp;<a href="https://github.com/12Parker/timeline.js">Developed timeline application using React, Apollo GraphQL, and MongoDB.</a>
 
 **Coursera Stanford Machine Learning Course**
-
 &nbsp;&nbsp;<a href="https://www.coursera.org/learn/machine-learning/">Currently working through 10-week course focusing on machine learning fundamentals.</a>
 
 ## EDUCATION
