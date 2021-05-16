@@ -16,6 +16,9 @@ Full stack software developer with 3 years of professional experience and 4+ yea
 
 &nbsp;&nbsp;<a href="https://julieparker.net">Created WordPress blog using AWS EC2, added SSL using Let’s Encrypt and Certbot.</a>
 
+**Created Dropshipping and Custom Product Development Business on Shopify**
+&nbsp;&nbsp;<a href="https://peaceandquiet.ca/">Founded Peace and Quiet Company and registered business in Canada.</a>
+
 **React Photo Timeline**
 
 &nbsp;&nbsp;<a href="https://github.com/12Parker/timeline.js">Developed timeline application using React, Apollo GraphQL, and MongoDB.</a>
@@ -36,12 +39,20 @@ Full stack software developer with 3 years of professional experience and 4+ yea
 
 ---
 
+**Intermediate Software Engineer | Common Wealth Retirement | Nov. 2020 - Present**
+
+- Developed Java batch jobs for processing employee and payroll CSV files.
+- Tested code extensively using Cucumber and Junit.
+- Collaborated with product owners and other engineers to refine stories and prepare MVP roadmap.
+- Added payroll functionality to our retirement tool using TypeScript, React, Redux, and Java.
+
 **Full Stack Software Developer | Manulife Financial | 2018 - Present**
 
 - Created APIs, using TypeScript and GraphQL, to facilitate communication between microservices.
-- Developed front-end webpages using React.js, JavaScript, and Apollo GraphQL.
-- Performed code reviews and participated in pair programming sessions.
-- Worked closely with business partners and stakeholders to deliver exceptional value for our customers.
+- Led major refactor of frontend application to use React Hooks and Apollo GraphQL.
+- Developed consumer-facing single-page applications using React, JavaScript, and Apollo GraphQL.
+- Performed code reviews and led pair programming sessions.
+- Worked closely with business partners and stakeholders to define product roadmap.
 - Participated in daytime support rotation to diagnose and troubleshoot production issues.
 
 **Web Development Co-op | McMaster University | May – Aug. 2017**
@@ -62,7 +73,7 @@ Full stack software developer with 3 years of professional experience and 4+ yea
 
 **Languages**
 
-&nbsp;&nbsp;JavaScript, TypeScript, Python, C++, GraphQL, MySQL.
+&nbsp;&nbsp;JavaScript, TypeScript, Java, Python, GraphQL, MySQL.
 
 **Frameworks & Testing**
 
@@ -70,7 +81,7 @@ Full stack software developer with 3 years of professional experience and 4+ yea
 
 **Tools**
 
-&nbsp;&nbsp;Git, Jira, Jenkins, Pivotal Cloud Foundry, AWS.
+&nbsp;&nbsp;Git, Jira, Jenkins, AWS.
 
 **Soft Skills**
 
@@ -82,4 +93,4 @@ Full stack software developer with 3 years of professional experience and 4+ yea
 
 **Email**
 
-&nbsp;&nbsp;[Parkercj@mcmaster.ca](mailto:Parkercj@mcmaster.ca)
+&nbsp;&nbsp;[Parkercj@mcmaster.ca](mailto:12camparker21@gmail.com)
