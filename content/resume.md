@@ -1,12 +1,12 @@
 Title: Resume
-Date: 2019-10-04 10:20
+Date: 2021-05-15 10:20
 Category: Resume
 
 ## PROFILE
 
 ---
 
-Full stack software developer with 3 years of professional experience and 4+ years of customer service experience. Enthusiastic about continuous learning and self-improvement. A driven, self-starter looking to deliver significant value to internal and external customers.
+Full stack software developer with 4+ years of professional experience and 4+ years of customer service experience. Enthusiastic about continuous learning and self-improvement.
 
 ## PROJECTS
 
