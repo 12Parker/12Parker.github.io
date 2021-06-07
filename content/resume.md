@@ -2,27 +2,13 @@ Title: Resume
 Date: 2021-05-15 21:10
 Category: Resume
 
+<a href="./extra/Resume.pdf">Download this resume</a>
+
 ## PROFILE
 
 ---
 
 Full stack software developer with 4+ years of professional experience and 4+ years of customer service experience. Enthusiastic about continuous learning and self-improvement.
-
-## PROJECTS
-
----
-
-**AWS Hosted WordPress Blog**
-&nbsp;&nbsp;<a href="https://julieparker.net">Created WordPress blog using AWS EC2, added SSL using Let’s Encrypt and Certbot.</a>
-
-**Created Dropshipping and Custom Product Development Business on Shopify**
-&nbsp;&nbsp;<a href="https://peaceandquiet.ca/">Founded Peace and Quiet Company and registered business in Canada.</a>
-
-**React Photo Timeline**
-&nbsp;&nbsp;<a href="https://github.com/12Parker/timeline.js">Developed timeline application using React, Apollo GraphQL, and MongoDB.</a>
-
-**Coursera Stanford Machine Learning Course**
-&nbsp;&nbsp;<a href="https://www.coursera.org/learn/machine-learning/">Currently working through 10-week course focusing on machine learning fundamentals.</a>
 
 ## EDUCATION
 
@@ -64,6 +50,22 @@ Full stack software developer with 4+ years of professional experience and 4+ ye
 - Worked with project manager to document requirements and create use case diagrams.
 - Developed PLC program for controlling overhead conveyor at Yanfeng automotive plant.
 
+## PROJECTS
+
+---
+
+**AWS Hosted WordPress Blog**
+&nbsp;&nbsp;<a href="https://julieparker.net">Created WordPress blog using AWS EC2, added SSL using Let’s Encrypt and Certbot.</a>
+
+**Created Dropshipping and Custom Product Development Business on Shopify**
+&nbsp;&nbsp;<a href="https://peaceandquiet.ca/">Founded Peace and Quiet Company and registered business in Canada.</a>
+
+**React Photo Timeline**
+&nbsp;&nbsp;<a href="https://github.com/12Parker/timeline.js">Developed timeline application using React, Apollo GraphQL, and MongoDB.</a>
+
+**Coursera Stanford Machine Learning Course**
+&nbsp;&nbsp;<a href="https://www.coursera.org/learn/machine-learning/">Currently working through 10-week course focusing on machine learning fundamentals.</a>
+
 ## SKILLS
 
 ---
@@ -90,4 +92,4 @@ Full stack software developer with 4+ years of professional experience and 4+ ye
 
 **Email**
 
-&nbsp;&nbsp;[Parkercj@mcmaster.ca](mailto:12camparker21@gmail.com)
+&nbsp;&nbsp;[resume@cameronparker.ca](mailto:resume@cameronparker.ca)
